@@ -1,0 +1,1 @@
+Recreate the mpg data dashboard with them. Give them the first prompt with the vizzes and we'll build the dashboard out together (knowing they will have different results). 
