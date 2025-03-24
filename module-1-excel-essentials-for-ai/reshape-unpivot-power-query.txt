@@ -1,3 +1,0 @@
-1. Unpivot in PQ
-2. Load into Python in Excel. Print preview.
-3. Count # of nonblank cells in that Preview area (it's a dynamic array!) 
