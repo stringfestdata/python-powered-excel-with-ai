@@ -1,2 +1,2 @@
 # python-powered-excel-with-ai
-Python-powered Excel with AI resources
+AI-Powered Python with Excel resources 
